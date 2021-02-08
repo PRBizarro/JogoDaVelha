@@ -12,7 +12,7 @@ Jogo da velha simples utilizando HTML, CSS e Javascript
 ## Tecnologias utilizadas
 - HTML
 - CSS
--JavaScript
+- JavaScript
 
 
 
